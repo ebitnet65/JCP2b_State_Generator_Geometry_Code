@@ -215,3 +215,9 @@ checks that the regenerated publication artifacts agree with the archived
 files. PDF metadata can make a byte-for-byte comparison platform-dependent;
 if only the PDF differs, inspect the rendered pages and numerical terminal
 output before accepting the new artifact.
+
+## License
+
+The code, figures, and supporting archive are licensed under the
+[Creative Commons Attribution 4.0 International License](LICENSE.md)
+(CC BY 4.0). Reuse and adaptation are permitted with appropriate attribution.

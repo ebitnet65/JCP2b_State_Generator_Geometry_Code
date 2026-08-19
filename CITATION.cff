@@ -6,6 +6,7 @@ title: >-
   State-Generator Geometry: Geodesic Transport and Automatic Differentiation
   of the Levi-Civita Connection
 type: software
+license: CC-BY-4.0
 authors:
   - family-names: Bittner
     given-names: Eric R.
