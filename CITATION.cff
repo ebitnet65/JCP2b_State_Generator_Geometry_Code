@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the archived release and the
+  accompanying article.
+title: >-
+  State-Generator Geometry: Geodesic Transport and Automatic Differentiation
+  of the Levi-Civita Connection
+type: software
+authors:
+  - family-names: Bittner
+    given-names: Eric R.
+    affiliation: University of Houston
+  - family-names: Silva-Acuña
+    given-names: Carlos
+    affiliation: Université de Montréal
+repository-code: https://github.com/ebitnet65/JCP2b_State_Generator_Geometry_Code
+abstract: >-
+  Reference Python implementation for the state-generator geometry of an
+  amplitude-damped optical Bloch model. The archive constructs the induced
+  metric and two-form, evaluates the Levi-Civita connection symbolically and
+  by automatic differentiation through a trace-constrained Liouvillian solve,
+  validates the connection against finite differences, and computes a
+  boundary-value geodesic between two control points.
+keywords:
+  - open quantum systems
+  - state-generator geometry
+  - geodesic transport
+  - Levi-Civita connection
+  - Christoffel symbols
+  - automatic differentiation
